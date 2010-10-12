@@ -1,0 +1,29 @@
+Google OS: Bootloader to the Cloud
+#tags miro
+<p>
+<h2>Yet another blog pundit's opinion of Google's new operating system</h2>
+I have just read <a href="http://www.kongoni.co.za/">Kongoni</a> developer A.J. Venter's <a href="http://silentcoder.co.za/2009/07/a-kongoni-developers-view-on-chromeos/">blog post</a> about Google's <a href="http://www.h-online.com/open/Google-s-second-open-source-operating-system-announced--/news/113713">new operating system</a>. I didn't agree with some of his views and started typing a response as it's the tradition whenever <em><a href="http://xkcd.com/386/">someone is wrong on the Internet</a></em>. However, it quickly got too long for a comment and, since I'm not posting for quite a while on my own weblog, I thought what better opportuntity to post. So, here's my response and view of Google's operating system projects:
+</p>
+<p>
+I personally am more paranoid of the Google OS. I haven't really navigated the blogosphere on this, so my view may have already been stated extensively.
+</p>
+<p style="text-align: center;">
+<img title="Old Man Yells At Cloud" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/grampa_simpson_cloud-300x225.jpg" alt="Old Man Yells At Cloud" width="300" height="225" />
+</p>
+<p>
+I see a big threat in what Google is aiming here, which is complete dependence on the <a href="http://en.wikipedia.org/wiki/Cloud_computing">cloud</a>. Google plans to release most of the so called Chrome OS as free software. Yes, but we should also look at what this OS is reduced to. Or more importantly, in which way Google is hoping to 'educate' its users. Replacing or modifying an operating system by Google shouldn't be an impossible task (though with a varying difficulty from simply reinstalling a laptop's OS to bypassing restriction mechanisms on an Android phone), but a user's set habits are much harder to replace.
+</p>
+<p>
+I don't know if you would see this as unsubstantiated speculation, but Google's main goal seems to be to create a computing environment where the operating system and everything on the user's machine just serve as the boot loader of the real computer, i.e. the cloud, of which Google is trying get the majority userbase as quickly and as early as possible.
+</p>
+<blockquote>"this isn’t trading one monopolist for another"</blockquote>
+<p>
+My fear is even deeper than that. Microsoft is clearly a monopoly with many of its decisions taken not in the interest of its users, but rather against them. However, Google, if you accept my previous premise, is posing a much bigger threat. Whereas the fight between Free Software and Microsoft is a relatively conventional struggle between the right thing to do with your personal computing versus the wrong thing, Google's end goal has the risk of making this whole fight irrelevant, and not in a good way...
+</p>
+<h3>Should we get our tinfoil hats?</h3>
+<p>
+Despite the significance of the threat, how or if Google's cloud computing ideal is inevitable is far from being definite. Google doesn't quite have the same direct force on computer users' machines the same way IBM once had or Microsoft is still enjoying. Therefore, Google is trying to lure users with features and conveniences. Although cloud computing has several advantages over traditional computing especially for users of highly restrictive platforms such as Microsoft Windows or Apple Mac OS X, I personally believe it can <a href="http://ascii.textfiles.com/archives/1717">never</a> <a href="http://kmandla.wordpress.com/2009/07/07/the-cloud-is-a-lie/">match</a> the power of personal computing, especially when done with Free Software.
+</p>
+<p>
+On the flip side, Google is also doing numerous beneficial things for digital freedom such as developing some pieces of software under free licenses or fighting for internet standards. Whatever motivation they may have for doing these, they certainly have also immediate good effects for the free software communities. So, I am not suggesting that one should reject all of Google's projects. On the contrary, we should try to benefit from them as much as we can without sacrificing already established freedoms. It is only necessary to keep their end game in mind while doing so.
+</p>

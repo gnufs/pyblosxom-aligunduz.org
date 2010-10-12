@@ -1,0 +1,15 @@
+Linux-libre: now with a boot mascot!
+#tags miro
+<p>
+Recently, there has been some <a href="http://www.fsfla.org/pipermail/linux-libre/2009-March/000453.html">activity</a> at the Linux-libre mailing list to create a Linux-libre mascot. Coincidentally, I have been considering adding a custom boot logo to the Freedom Shoppe kernel packages just before the discussion started. So, I decided to wait until there is a nice logo posted instead of using a crude design of mine.
+</p>
+<p>
+Having gathered some beautiful samples, I decided on my favorite and put together a kernel patch today. It basically adds the option of building a new <em>Linux-libre logo</em> into the kernel. Here's the result!
+<p style="text-align: center;"><video src="http://aligunduz.org/gNewSense/video/linuxlibre_boot.ogv" controls="controls"><b style="color: gray">Your browser doesn't seem to support the video tag. Use an HTML 5 compatible browser to watch the embedded video.</b></video><br><a href="http://aligunduz.org/gNewSense/video/linuxlibre_boot.ogv">Download the video in Theora/Vorbis format</a>
+</p>
+<p>
+I'm not sure if this (or anything like it) will ever become a part of the official Linux-libre releases, but I am intending to include them in the <a href="http://aligunduz.org/gNewSense/">Freedom Shoppe kernel packages</a> for Debian, Ubuntu and gNewSense. As the first version with this logo, I have just released <code>2.6.29.1-libre-fshoppe<strong>2</strong></code> series.
+</p>
+<p>
+<strong>Edit:</strong> I replaced the embedded Flash video with an HTML 5 complaint &lt;video&gt; tag. I would like to thank the <a href="http://en.flossmanuals.net/">FLOSS Manuals</a> ofr their most helpful <a href="http://en.flossmanuals.net/TheoraCookbook/">TheoraCookbook</a>. [<em>31.08.2009</em>] 
+</p>

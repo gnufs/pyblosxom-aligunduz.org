@@ -1,0 +1,14 @@
+Linux-libre 2.6.29 for Debian, Ubuntu and gNewSense
+#tags miro
+<p>
+I have just uploaded installation packages of Linux-libre 2.6.29.1 that you can find <a href="http://aligunduz.org/gNewSense/">here</a>. They should install and run fine on Debian Lenny, Ubuntu Hardy/Intrepid and gNewSense deltah.
+</p>
+<p style="text-align:center">
+<a href="http://aligunduz.org/img/blog/wp-content/uploads/2009/04/compile26291.png"><img title="compiling the kernel" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/04/compile26291-300x187.png" alt="compiling the kernel" width="300" height="187" /></a>
+</p>
+<p>
+The <a href="http://linux-libre.fsfla.org">Linux-libre</a> Project purges Linux releases from non-free binary blobs. It also just started guaranteeing users' freedom by not loading external binary-only firmware that was possible in previous releases.
+</p>
+<p>
+You can find out how to build a custom kernel <a href="http://www.aligunduz.org/articles/buildkernel.html">here</a>.
+</p>

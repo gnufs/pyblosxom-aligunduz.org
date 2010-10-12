@@ -1,0 +1,29 @@
+A pleasant day
+#tags miro
+<p>
+I had an interesting day yesterday. I attended my first Fellowship meeting in less than 24 hours after finally joining the <a href="http://fellowship.fsfe.org/">Fellowship</a> of <a href="http://fsfe.org">Free Software Foundation Europe</a>. The <a href="http://wiki.fsfe.org/groups/Berlin">Berlin group</a> of the Fellowship turned out to be full of interesting people not all of whom are technogeeks. After <a href="http://hugoroy.eu/">Hugo Roy</a>'s presentation about the alarming features of the upcoming <a href="https://secure.wikimedia.org/wikipedia/en/wiki/European_Interoperability_Framework">EIF</a>, I had a chance to get to know the FSFE some more. Despite being sister organizations, different Free Software foundations (such as FSF, FSFLA and FSFE) have, in my experience, different <em>cultures</em>. I first got in contact with the FSFE people during the CELF Embedded Linux Conference Europe last year and, combined with my observations yesterday, a general picture of FSFE's style is starting emerge in my head. But I'd better save it for a later blog post, or one of my ignorant comments would likely draw me into a flamewar. :)
+</p>
+<p>
+When i came back home from the meeting, I was greeted by Tobias and Randi's over-enthusiastically jumping around and yelling "vintage laptops!" The laptops that <a href="http://elmundolibre.be">Sam Geeraerts</a> graciously sent me from Belgium had arrived.
+</p>
+<p style="text-align: center;">
+<img class="size-full wp-image-373" title="lappies" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/12/lappies.jpg" alt="vintage laptops" width="530" height="397" /><br>"vintage laptops"
+</p>
+<p>
+Mainly thanks to <a href="http://kmandla.wordpress.com">K.Mandla</a>, I became interested in experimenting with "old" (i.e. approximately sub-300MHz) laptop computers and using them for daily tasks with Free Software. My attempts at finding such machines in working condition locally had failed (please let me know if you know of any shops or organizations that have such machines in Berlin) and, as a desperate attempt, I was yelling for help on the IRC. That's where Sam stepped up and donated these three machines that he had scavenged from his company. These laptops run on 266, 233 and 100MHz processors and have respectively 96, 32 and 40 MiB of RAM.
+</p>
+<p>
+I was too tired and sleep-deprived to start hacking on them immediately, but it didn't prevent us from having some fun...
+</p>
+<p style="text-align: center;">
+<img class="size-full wp-image-375 " title="art_lap1" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/12/art_lap1.jpg" alt="Me, Randi and Tobias monkeying around" width="550" height="327" /><br>I, Randi and Tobias monkeying around
+</p>
+<p>
+...Or from opening a bottle of sparkling wine and having a little Windows launch party.
+</p>
+<p style="text-align: center;">
+<img class="size-full wp-image-376" title="lap_sekt" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/12/lap_sekt.jpg" alt="The launch party ensues with a game of strip solitaire..." width="382" height="452" /><br>The launch party ensues with a game of strip solitaire...
+</p>
+<p>
+EDIT: Hello there, <a href="http://planet.fsfe.org/">FSFE Planet</a>!
+</p>

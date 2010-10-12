@@ -1,0 +1,56 @@
+Fully Free GNU/Linux Presentation
+#tags miro
+<p>
+<a href="http://aligunduz.org/blog/fully_free_gnu_linux_presentation_next_week.html">As planned</a>, I did my talk about the thriving fully free GNU/Linux distribution movement at yesterday's FSFE Berlin Fellowship meeting. I started with the basics of the Free Software ideal, moved on to the problematic issues concerning mainstream GNU/Linux distributions such as Ubuntu and Debian and then discussed the solutions to these problems. I also had the chance to share some of my favorite fully free GNU/Linux distributions.
+</p>
+<p>
+The interest in the topic was amazing, and the Q&amp;A discussion after the presentation turned out to be more interesting than the presentation itself. After the event, I even managed to get my share of the FSFE's <em>Hug A Developer</em> <a href="http://www.fsfe.org/campaigns/valentine-2010/valentine-2010.en.html">campaign</a>!
+</p>
+<p style="text-align: center;">
+<img class="size-full wp-image-436 " title="Fellowship Hug" src="http://aligunduz.org/img/blog/wp-content/uploads/2010/02/fellowship-hug_sbw.jpg" alt="" width="516" height="387" /><br>I can has hugz! (Original picture from Matthias Kirschner's <a href="http://blogs.fsfe.org/mk/">weblog</a>)
+</p>
+<p>
+Fortunately, I had brought a microphone with me and recorded the talk including the engaging discussion afterwards. You can find the Theora/Vorbis OGV video of the talk below.
+<p style="text-align: center;"><a href="http://aligunduz.org/av/FullyFreeDistroTalk.ogv"><img class="aligncenter size-full wp-image-443" title="Talk video" src="http://aligunduz.org/img/blog/wp-content/uploads/2010/02/video.jpg" alt="" width="406" height="304" /></a>
+</p>
+<p>
+Those who prefer to only have the audio can download the <a href="http://aligunduz.org/av/FullyFreeDistroTalk.ogg"><strong>Vorbis OGG</strong></a> of the talk as well. Both the video and audio are licensed under the free <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a> license.
+</p>
+<p>
+If you, your friends or your organization might be interested in this topic, please note that I would love to give an improved and updated version of this presentation to any group as long as my travel expenses can be met.
+</p>
+<p>
+While at it, I compiled a list of interesting links relevant to the talk below.
+</p>
+<p>
+<h3>Four Freedoms</h3>
+<ul>
+<li><a href="http://www.gnu.org/philosophy/free-sw.html">An explanation of the Four Freedoms</a></li>
+<li><a href="http://www.gnu.org/distros/free-system-distribution-guidelines.html">Guidelines for Free System Distributions</a></li>
+</ul>
+<h3>Kernel blobs &amp; Linux-libre</h3>
+<ul>
+<li><a href="https://secure.wikimedia.org/wikipedia/en/wiki/Binary_blob">Wikipedia article on binary blobs</a></li>
+<li><a href="http://manulix.wikidot.com/kernel-blobs">A list of Linux blobs</a></li>
+<li><a href="http://lxr.linux.no/#linux+v2.6.27/drivers/net/tg3.c">The complete source file of the example ethernet driver</a></li>
+<li><a href="http://lxr.linux.no/#linux+v2.6.32/firmware/">The new firmware/ directory</a></li>
+<li><a href="http://fsfla.org/svnwiki/selibre/linux-libre/">Linux-libre Project</a></li>
+</ul>
+<h3>GNU IceCat</h3>
+<ul>
+<li><a href="http://www.gnu.org/software/gnuzilla/">GNU IceCat Project</a></li>
+<li><a href="https://launchpad.net/~gnuzilla-team/+archive/ppa">GNU IceCat PPA</a></li>
+</ul>
+<h3>Fully Free Distributions</h3>
+<ul>
+<li><a href="http://www.gnu.org/distros/free-distros.html">FSF's official list</a></li>
+<li><a href="http://groups.fsf.org/wiki/Incoming_distros">Incoming free distributions</a></li>
+<li><a href="http://groups.fsf.org/wiki/List_of_software_that_does_not_respect_the_Free_System_Distribution_Guidelines">List of software removed from fully free distros</a></li>
+<li><a href="http://trisquel.info/en">Trisquel GNU/Linux</a></li>
+<li><a href="http://gnewsense.org">gNewSense GNU/Linux</a></li>
+<li><a href="http://www.kongoni.co.za">Kongoni GNU/Linux</a></li>
+<li><a href="http://lists.kongoni.co.za/pipermail/kongoni-devel/2010-February/000312.html">Former Kongoni lead developer's announcement</a></li>
+<li><a href="http://www.parabolagnulinux.org">Parabola GNU/Linux</a></li>
+<li><a href="http://www.fsf.org/news/thank-you-sgi">The FSF announcement about the freed OpenGL</a></li>
+</ul>
+</p>

@@ -1,0 +1,13 @@
+Testing Flattr
+<p>
+Three days after applying, I got my <a href="http://flattr.com">Flattr</a> invitation. For those who haven't heard about it before, Flattr is a web micropayment platform. From <i><a href="https://flattr.com/about">The Flattr story</a></i>:
+</p>
+<blockquote>
+Flattr was founded to help people share money, not only content. Before Flattr, the only reasonable way to donate has been to use Paypal or other systems to send money to people. The threshold for this is quite high. People would just ignore sending donations if it wasn't for a really important cause. Sending just a small sum has always been a pain in the ass. Who would ever even login to a payment system just to donate €0.01? And €10 was just too high for just one blog entry we liked...
+</blockquote>
+<p>
+You can use it to send and receive donations for any content you create. It, at least in theory, is especially useful for small payments. There isn't an awful amount of content online supporting Flattr yet and the service itself is still in beta release, but it looks quite promising.
+</p>
+<p>
+I activated my account by loading a small amount of money to my account and integrated it to my <a href="http://pyblosxom.bluesock.org/1.5/flavours_and_templates.html">PyBlosxom flavour</a>, so it automatically submits every blog post to Flattr. We'll see how it goes.
+</p>

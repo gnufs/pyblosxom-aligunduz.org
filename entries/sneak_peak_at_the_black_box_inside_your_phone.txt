@@ -1,0 +1,29 @@
+A Sneak Peak At the Black Box Inside Your Phone
+<p>
+I have been watching the Free Software tinkerers' much needed approach to cellular phone networks for the past few years, albeit from a distance. Cellular telephony seems to be the biggest network implementation (bigger than the Internet in means of user base) that has been surprisingly closed to inspection and experimentation despite its age. Lately, I've started actively getting informed about GSM network protocols and their free implementations such as <a href="http://openbts.sourceforge.net/">OpenBTS</a> and <a href="http://openbsc.gnumonks.org/trac/">OpenBSC</a>. Both projects provide very promising opportunities for various scenarios. However, even if the two projects are combined with a free mobile operating system, one still wouldn't have control on a very important part of his digital telecommunication. This is because the client side (i.e. the mobile phone) of the GSM connection would still be handled by proprietary chipsets whose innerworkings are unknown and out-of-reach.
+</p>
+<br>
+<p style="text-align: center;"><img title="Rembrandt's depiction of Belshazzar" src="/img/blog/Rembrandt-Belsazar.jpg" alt="Rembrandt's depiction of Belshazzar" /></p>
+<br>
+<p>
+About two months ago, Harald Welte <a href="http://laforge.gnumonks.org/weblog/2010/02/19/#20100219-announcing_osmocom_bb">announced</a> a project called <a href="http://bb.osmocom.org">OsmocomBB</a> which intends to close what might be called the <i>missing link</i> between the free GSM network implementations and the free mobile phone operating systems. When accomplished, the projects aims to have a fully functioning and free GSM baseband software stack in the mobile phone.
+</p>
+<p>
+What I wanted to share was a paper titled <b><i><a href="http://laforge.gnumonks.org/papers/gsm_phone-anatomy-latest.pdf">Anatomy of contemporary GSM cellphone hardware</a></i></b> <a href="http://laforge.gnumonks.org/weblog/2010/04/14/#20100414-anatomy_of_gsm_cellphone">released</a> by Harald Welte today. Even though most of the concepts are still above my head, I very much enjoyed having a concise overview of all the processes going on in a phone. A tip for beginners: Print out the article if you can. It is bound to host a bunch of small side notes as you research around and come back to it.
+</p>
+<p>
+Here are two paragraphs from the ending <i>personal rants</i> section to whet your appetite:
+</p>
+<p>
+<blockquote>
+The GSM industry is one of the most closed areas of computing that I’ve encountered so far. It is very hard to get any hard technical information out of them. All they like to spread is high-level marketing information, but they’re very reluctant when it comes down to hard technical facts on their products.
+</blockquote>
+</p>
+<p>
+<blockquote>
+All the various vendors do more or less the same. The fundamental architecture of a GSM baseband chip is the same, whether you buy it from TI, Infineon or from MediaTek. <i>They all cook with water</i>, like we Germans tend to say. The details like the particular DSP vendor or whether you use a traditional IF, zero-IF or low-IF analog baseband differ. But from whom do they want to hide it? If people like myself with a personal interest in the technical aspects of mobile phones can figure it out in a relatively short time, then I’m sure the competiton of those chipset makers can, too. In much less time, if they actually care.
+</blockquote>
+</p>
+<p>
+Very exciting times are awaiting us.
+</p>

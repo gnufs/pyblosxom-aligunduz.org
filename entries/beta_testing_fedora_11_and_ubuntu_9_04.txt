@@ -1,0 +1,25 @@
+Beta Testing Fedora 11 and Ubuntu 9.04
+#tags miro
+<p>
+I own a Lenovo Thinkpad X200s with <a href="http://www.thinkwiki.org/wiki/Intel_GMA_X4500HD">Intel GMA X4500</a> series graphics chip that I wanted to use with an additional monitor for some time. Because this chipset is quite new, it <a href="http://lists.gnu.org/archive/html/gnewsense-users/2009-03/msg00102.html">didn't perform well</a> in gNewSense 2.1 which is based on Ubuntu Hardy. So I settled with the then just released Debian Lenny because it was stable and easy to free. (I just needed to replace the kernel with a <a href="http://aligunduz.org/gNewSense/">Linux-libre build</a>, Iceweasel with <a href="http://wiki.gnewsense.org/Documentation/IceCat">GNU IceCat</a> and stick to the <tt>main</tt> repo.)
+</p>
+<p>
+With the recent news of beta releases from Fedora and Ubuntu, I decided to see how far the graphics support has come. So, I downloaded live ISO images of <a href="http://fedoraproject.org/get-prerelease">Fedora 11 Beta</a> and <a href="http://releases.ubuntu.com/releases/9.04/">Ubuntu 9.04 "Jaunty Jackalope" Beta</a> and created bootable USB images with <a href="http://aligunduz.org/FUSBi/">FUSBi</a>.
+<p style="text-align: center;"><a href="http://aligunduz.org/img/blog/Fedora11-beta.png"><img class="size-medium wp-image-165 aligncenter" title="Fedora 11 Beta" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/04/800px-fedora11-beta-300x187.png" alt="Fedora 11 Beta" width="300" height="187" /></a></p>
+</p>
+<p>
+Fedora supported kernel mode-setting and booted in the new flickerless boot sequence. I could enable 3D graphics without trouble. However, it didn't support a dual monitor setup out-of-the-box.
+<p style="text-align: center;"><a href="http://aligunduz.org/img/blog/Ubuntu9.04-beta.png"><img class="size-medium wp-image-168 aligncenter" title="Ubuntu 9.04 Jaunty Beta" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/04/800px-ubuntu904-beta-300x120.png" alt="" width="300" height="120" /></a></p>
+</p>
+<p>
+Ubuntu Jaunty, on the other hand, supported my dual monitor setup. However, there was significant tearing in video playback and no 3D support.
+</p>
+<p>
+Since all of my hardware (including on-board graphics and Atheros-based wireless networking adapter) relies on free software, the results should be same if I  were to replace both distributions' kernels with completely free ones.
+</p>
+<p>
+The support for my graphics chip certainly seems to have improved significantly over the last months, but it's far from being complete. I wish Intel would have cared more about providing free software support for its graphics chipset series that have been widely distributed for about a year now.
+</p>
+<p>
+On a side note, spending some time on these standard GNOME environments made me realize how much I have been relying on <a href="http://aligunduz.org/blog/xmonad___gnome_on_debian_lenny.html">my tiling window manager of choice</a> for speedy window management.
+</p>

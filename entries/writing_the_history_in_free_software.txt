@@ -1,0 +1,26 @@
+Writing the History in Free Software
+#tags miro
+<p>
+One of the free software related mailing lists I'm subscribed to is called <em>GNU-Linux-libre</em>. It's a list where developers of fully free GNU/Linux distros and other projects involved in spreading software freedom gather to exchange experiences and opinions. For the last couple of days, there has been a heated discussion going on over how a free kernel should behave in certain situations. It's a tricky subject, if you're not familiar with it. Basically, some Linux drivers (including Intel wireless drivers), even though they're free themselves, require the loading of firmware codes which are not free software. Logically, the <a href="http://linux-libre.fsfla.org">Linux-libre project</a> removes these not free firmware from the kernel to ensure users' freedom. However, the question comes to what should be done about the left drivers that are rendered useless without the firmware. The current solution is to leave these drivers as they are and make the kernel print a <tt>*DEBLOBBED*</tt> message whenever the driver looks for the non-existent firmware.
+</p>
+<p>
+A few days ago, the developer community started to discuss if the drivers themselves should also be removed from the Linux-libre source code. (You can read the discussion thread <a href="http://www.mail-archive.com/gnu-linux-libre@nongnu.org/index.html#00109">here</a>.) The argument for removing the drivers is that those drivers act primarily as a trap for the user to switch to non-free firmware. And, the counterargument to that is that the drivers themselves don't restrict user freedom and should be left as an invitation for hackers to write a free firmware. From my point of view, both sides of the argument have valid points. However, the discussion seems to be blown out of proportion for such a relatively minor issue. I am saying minor because nothing significant changes for the regular user of a free distribution either way. The involved device would be unusable regardless of whether the discussed drivers are purged or not. Furthermore, if a user has enough skills and motivation to plug a non-free firmware back, she could also just compile the whole driver module.
+</p>
+<p>
+Anyway, the real reason why I wanted to post was to share a quotation from a <a href="http://www.mail-archive.com/gnu-linux-libre@nongnu.org/msg00151.html">mail</a> sent during the discussion. It's written by Daniel Olivera who is the leading developer of <a href="http://www.ututo.org">UTUTO</a>, the first fully free distro recognized by the FSF. For a few years, it remained the only such distribution, until the number of <a href="http://www.gnu.org/distros/free-distros.html">free GNU/Linux distributions</a> came close to ten with <a href="http://kongoni.co.za/news/kongoni-evaluated-by-fsf">more lining up</a> to get included. Although the language is a little bit broken (probably due to the heat of the discussion), its hilarity should make up for it. :-) And, nevertheless, there is some truth in it, too...
+</p>
+<p>
+<blockquote>
+<pre>This hackers, and this Gnu Project and other free software fighter never
+create a free system.
+All rules, All software, all hackers, all gurus, all free software
+moviment never use a 100% free system.
+
+I create this system.
+
+I first hacker from free software moviment what compile and put only
+free software in one CD are me.
+
+<b>you don't need teach about the history, I write de history.</b></pre>
+</blockquote>
+</p>

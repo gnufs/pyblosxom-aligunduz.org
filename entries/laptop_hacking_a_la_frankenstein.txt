@@ -1,0 +1,25 @@
+Laptop Hacking a la Frankenstein
+#tags miro
+<p>
+I had a cheap MSI laptop lying around with no functioning hard disk or CD drive for a while. I have tried switching HDDs, yet it continued failing to find a drive, so I'm guessing there was a motherboard trouble involved. (Though I'm a sub-newbie when it comes to PC internals.) Today's been a slow day and without knowing I found myself with a screwdriver in my hand and a dissected laptop on my desk in front of me.
+</p>
+<p style="text-align: center;">
+<a href="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/msi_before.jpg"><img title="Laptop on the surgery table" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/msi_before-300x225.jpg" alt="Laptop on the surgery table" width="300" height="225" /></a>
+</p>
+<p>
+I don't know if this happens to other people too but I occasionally start hacking on something without realising. In this case, I have been listening to some music and chatting on the IRC when, out of nowhere, I started thinking about the sad little laptop sitting on one of my "TOHACK" hardware piles. In the end, I grabbed it and started unscrewing without even thinking about it.
+</p>
+<p>
+<a href="http://identi.ca/notice/6445209">By the time I came to myself</a> I already opened up most of the case, so I went ahead took everything apart. I examined, smelled and tasted every part I could get my hands onto. Meanwhile, I also took mental notes of their possible uses for future projects.
+</p>
+<p>
+After this, it would be a waste to assemble it back into its old, unused shape. What do you do with a laptop that has no access to a CD drive or hard disk and that has the cheapest possible keyboard (think about the whole board bending and all keys shaking even if you type gently) and an awkward track pad? Well, the only idea I had that was doable in an hour or so was making an LCD terminal into which I could plug a bootable USB stick and boot into a system created with <a href="http://aligunduz.org/FUSBi">FUSBi</a> or a persistent installation like the one on the <a href="http://config.fsf.org/trac/membercard">FSF Member Card</a>.
+</p>
+<p>
+And that's what I did. In the simple sense, it required reversing the LCD Panel, so that when the laptop's lid is closed (which will be its default state) the screen will be looking to outside. I also needed to take care to make sure that the old keyboard surface remains uncluttered so the now reversed lid closes snugly and that the power button, which normally stays under the lid is reachable from outside. And, yes, it involved a soldering iron. I'm not arguing I followed the most elegant or civil method here. :-) In the end, it <em>kind of</em> looks like a one piece LCD panel.
+<p style="text-align: center;"><a href="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/msi_after1.jpg"><img title="LCD Terminal" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/msi_after1-300x225.jpg" alt="LCD Terminal" width="300" height="225" /></a></p>
+<p style="text-align: center;">
+<a href="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/msi_after2.jpg"><img title="LCD Terminal" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/msi_after2-300x225.jpg" alt="LCD Terminal" width="300" height="225" /></a></p>
+<p>In the pictures, the panel is standing on a basic book holder which does a decent job. (I have also used this book holder as a stand for my Eee PC in the past.) And, sure enough, it makes a perfect companion for my FSF Member Card running gNewSense and the Happy Hacking Keyboard.</p>
+<p style="text-align: center;"><a href="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/msi_on.jpg"><img title="It's Alive!" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/07/msi_on-300x225.jpg" alt="It's Alive!" width="300" height="225" /></a></p>
+

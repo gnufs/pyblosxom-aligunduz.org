@@ -1,0 +1,9 @@
+Self-fulfilling Breakage
+#tags miro
+<p>
+I have just got this message in <a href="http://www.pidgin.im/">Pidgin</a> from a friend over the MSN Messenger Service:
+</p>
+<blockquote>"dude, my internet connection is fucked up. i'm getting disconnected every time i open msn."</blockquote>
+<p>
+Predictably, he was offline when i saw the message.
+</p>

@@ -1,0 +1,117 @@
+Unboxing the Lemote Fuloong Mini
+<p>I have just received the Lemote <a href="http://www.lemote.com/english/fuloong.html">Fuloong mini</a> and would like to share the photos of the content.</p>
+
+<br>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0414.jpg">
+<img src = "/img/blog/lemote-unbox/0414p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0418.jpg">
+<img src = "/img/blog/lemote-unbox/0418p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0420.jpg">
+<img src = "/img/blog/lemote-unbox/0420p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0421.jpg">
+<img src = "/img/blog/lemote-unbox/0421p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0423.jpg">
+<img src = "/img/blog/lemote-unbox/0423p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0425.jpg">
+<img src = "/img/blog/lemote-unbox/0425p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0430.jpg">
+<img src = "/img/blog/lemote-unbox/0430p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0435.jpg">
+<img src = "/img/blog/lemote-unbox/0435p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0437.jpg">
+<img src = "/img/blog/lemote-unbox/0437p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0438.jpg">
+<img src = "/img/blog/lemote-unbox/0438p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0439.jpg">
+<img src = "/img/blog/lemote-unbox/0439p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0441.jpg">
+<img src = "/img/blog/lemote-unbox/0441p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/0443.jpg">
+<img src = "/img/blog/lemote-unbox/0443p.jpg"/>
+</a>
+</p>
+
+<p>
+<a href = "/img/blog/lemote-unbox/screenshot.png">
+<img src = "/img/blog/lemote-unbox/screenshotp.png"/>
+</a>
+</p>
+
+<br>
+
+<p>Here's the <tt>lspci</tt> output:</p>
+
+<p><tt>00:06.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL-8169 Gigabit Ethernet (rev 10)<br>
+00:08.0 VGA compatible controller: Silicon Integrated Systems [SiS] 315PRO PCI/AGP VGA Display Adapter<br>
+00:0e.0 ISA bridge: Advanced Micro Devices [AMD] CS5536 [Geode companion] ISA (rev 03)<br>
+00:0e.2 IDE interface: Advanced Micro Devices [AMD] CS5536 [Geode companion] IDE (rev 01)<br>
+00:0e.3 Multimedia audio controller: Advanced Micro Devices [AMD] CS5536 [Geode companion] Audio (rev 01)<br>
+00:0e.4 USB Controller: Advanced Micro Devices [AMD] CS5536 [Geode companion] OHC (rev 02)<br>
+00:0e.5 USB Controller: Advanced Micro Devices [AMD] CS5536 [Geode companion] EHC (rev 02)<br>
+00:0e.6 USB Controller: Advanced Micro Devices [AMD] CS5536 [Geode companion] UDC (rev 02)<br>
+00:0e.7 USB Controller: Advanced Micro Devices [AMD] CS5536 [Geode companion] UOC (rev 02)</tt></p>
+
+<p>and <tt>cat /proc/cpuinfo</tt>:</p>
+
+<p><tt>system type		: lemote-fulong<br>
+processor		: 0<br>
+cpu model		: Godson2 V0.3  FPU V0.1<br>
+BogoMIPS		: 532.48<br>
+wait instruction	: no<br>
+microsecond timers	: yes<br>
+tlb_entries		: 64<br>
+extra interrupt vector	: no<br>
+hardware watchpoint	: no<br>
+ASEs implemented	:<br>
+VCED exceptions		: not available<br>
+VCEI exceptions		: not available</tt></p>

@@ -1,0 +1,15 @@
+not lsd but ls -aR
+#tags miro
+<p>
+My favorite pastime activity for the last couple of weeks have been entering
+<blockquote>
+<pre style="text-align: left; padding-left: 30px;">ls -aR /</pre>
+</blockquote>
+into a full screen terminal emulator and watching virtually everything in my file system <tt>ls</tt>'ed. It's hypnotizing if you stare at the screen long enough.
+</p>
+<p style="text-align:center">
+<img title="ls -Ar" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/03/ls-ar.png" alt="" width="500" height="312" />
+</p>
+<p>
+Of course, how long it is going to take to complete depends on how many files and directories you have and how fast your hard drive is. Another important factor is - as it is with any "dumb" process dumping stuff on screen - whether you are displaying the terminal or not. On my laptop, it takes around 1 minute to complete. You can test it with the <b><tt>time ls -aR /</tt></b> command where the <tt>time</tt> utility measures how much time a certain command takes to complete.
+</p>

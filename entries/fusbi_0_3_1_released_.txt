@@ -1,0 +1,28 @@
+FUSBi 0.3.1 released!
+#tags miro
+<p>
+<h2>What is FUSBi?</h2>
+FUSBi, the <em>Free USB Installer</em>, is a nifty, little application that creates bootable images of <a href="http://www.gnu.org/philosophy/free-sw.html">free</a> GNU/Linux distributions on USB drives (or hdd if you want).
+</p>
+<p>
+You choose one of the supported distro releases, and FUSBi will automatically download the ISO image and create a bootable image of it on your USB drive. You can also simply use it with an ISO image you have already downloaded.
+</p>
+<p>
+FUSBi supports all of the GNU/Linux distros recognized as free by the Free Software Foundation. These include <a href="http://www.gnewsense.org/">gNewSense</a>, <a href="http://www.ututo.org/www/">UTUTO</a>, <a href="http://dynebolic.org/">Dynebolic</a>, <a href="https://www.musix.org.ar/">Musix GNU+Linux</a>, <a href="http://www.blagblagblag.org/">BLAG</a> and <a href="http://livecd.gnustep.org/">GNUstep</a>.
+</p>
+<p style="text-align:center">
+<a href="http://aligunduz.org/img/blog/wp-content/uploads/2008/11/fusbi-03-screenshot.png"><img title="FUSBi Screenshot" src="http://aligunduz.org/img/blog/wp-content/uploads/2008/11/fusbi-03-screenshot.png" alt="" width="300" height="220" /></a>
+</p>
+<p>
+You can download the latest release of FUSBi and find installation instructions at the project home page at <strong><a href="http://aligunduz.org/FUSBi/">http://aligunduz.org/FUSBi</a></strong>
+<h2>News</h2>
+* BLAG 90001 has an alternative download link since official BLAG servers are in a recovery state.
+</p>
+<p>
+* Some branding issues resolved.
+<h2>Comments</h2>
+The application is pretty stable. Any problems (if any) tend to occur around automatic download and distribution compatibility issues. Since this is a one-man project, testing with the numerous distros FUSBi supports is especially appreciated.
+</p>
+<p>
+The source base, most of which is inherited from the UNetbootin, is far from being clean. It needs to be reordered and cleared from binary files.
+</p>

@@ -1,0 +1,34 @@
+Getting Maximum Framebuffer Resolution
+#tags miro
+<p>
+I have been increasingly getting interested in console-only environments, no little thanks to <a href="http://kmandla.wordpress.com/">K.Mandla</a>'s <a href="http://kmandla.wordpress.com/2009/05/05/a-quick-testament/">inspiring</a> <a href="http://kmandla.wordpress.com/2007/05/17/more-terminal-programs-you-should-be-using-like-a-pro/">articles</a>.
+</p>
+<p>
+However, my biggest concern was the screen resolution I could get at framebuffer. According to the prompt I was getting with the <tt>vga</tt> argument at kernel boot line, I could only get 1024x768 from my Thinkpad X200s which has a native resolution of 1440x900. Having only such a small portion of the real screen real estate obviously meant less productivity I could get.
+</p>
+<p>
+Today, I did some research on the interwebs looking for a way to increase the framebuffer resolution. Along the several tips that looked like <a href="http://catb.org/jargon/html/B/black-magic.html">black magic</a> to me, this is the simplest solution for my taste.
+</p>
+<p>
+I installed <tt>hwinfo</tt> which you can find pre-packaged on Debian, Ubuntu and gNewSense. And the <tt><b>hwinfo --framebuffer</b></tt> command listed all possible resolutions which contained some that were not given by the aforementioned prompt. Here's the snippet that interested me the most:
+</p>
+<p>
+<tt>Mode 0x0369: 1440x900 (+1472), 8 bits
+Mode 0x036a: 1440x900 (+2880), 16 bits
+Mode 0x036b: 1440x900 (+5760), 24 bits</tt>
+</p>
+<p>
+Theoretically, adding one of these modes as the <tt>vga</tt> argument should enable the corresponding resolution. On my machine, however, the 24 bits mode broke the console output for a reason I don't know. But the 8 bits and 16 bits modes work charmfully.
+</p>
+<p style="text-align:center">
+<a href="http://aligunduz.org/img/blog/wp-content/uploads/2009/05/fb.png"><img class="aligncenter size-medium wp-image-217" title="1440x900 16 bits framebuffer" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/05/fb-300x187.png" alt="1440x900 16 bits framebuffer" width="300" height="187" /></a>
+</p>
+<p>
+Trying to come up with a screenshot, I also discovered the nifty <a href="http://hem.bredband.net/gmogmo/fbgrab/">fbgrab</a> tool that takes framebuffer and X screenshots.
+</p>
+<p>
+p.s. This machine has the on-board Intel GMA X4500MHD graphics chip.
+</p>
+<p>
+EDIT: For those who want the clear cut solution, I basically added <tt><b>vga=0x036a</b></tt> at the end of the GRUB's kernel line.
+</p>

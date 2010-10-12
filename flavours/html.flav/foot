@@ -1,0 +1,26 @@
+<br>
+<br>
+<div style="text-align: center;">$page_navigation</div>
+<hr>
+<p style="text-align: center;">
+© <b><a style="color:black" href="http://aligunduz.org">Ali Gündüz</a></b> 2008 - 2010 <a style="color:#242424" href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>
+</p>
+<p style="text-align: center;">
+<a href="http://pyblosxom.bluesock.org/"><img src="http://pyblosxom.bluesock.org/images/pb_pyblosxom.gif" alt="Powered by PyBlosxom" border="0" /></a>
+</p>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://aligunduz.org/piwik/" : "http://aligunduz.org/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://aligunduz.org/piwik/piwik.php?idsite=1" style="border:0" alt=""/></p></noscript>
+<!-- End Piwik Tag -->
+
+</body>
+</html>

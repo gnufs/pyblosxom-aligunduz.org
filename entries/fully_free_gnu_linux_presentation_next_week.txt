@@ -1,0 +1,14 @@
+Fully Free GNU/Linux Presentation Next Week
+#tags miro
+<p>
+I will be giving a talk about the fully free GNU/Linux distribution movement in the <a href="http://fsfe.org/">Free Software Foundation Europe</a>'s Berlin meeting on Thursday, February 11th, next week. The talk will start at 19:30 in the <a href="http://www.newthinking-store.de/">Newthinking Store</a>, Tucholskystraße 48. Hopefully, we will have a chance to continue discussing the topic over a few beers right after the meeting, too.
+</p>
+<p style="text-align: center;"><img class="size-full wp-image-410 aligncenter" title="Ritter" src="/img/blog/wp-content/uploads/2010/02/ritter_small.jpg" alt="" width="486" height="380" /></p>
+<p>
+Here's the abstract of the presentation:
+</p>
+<blockquote>For the past few years, a growing number of GNU/Linux distributions have been started with the specific goal of ensuring users' software freedoms before everything else. In this presentation, I will try to draw an overview of the fully free GNU/Linux distribution movement and provoke participants to think about software distributors' ethical responsibilities. What aspects of mainstream GNU/Linux distributions does this movement not find sufficient? Which distributions align themselves with the movement? What is their rationale for limiting functionality of their software offerings in the name of upholding user freedoms? What does a binary blob mean and what does the Linux-libre Project claim to accomplish that the vanilla kernel Linux doesn't? How does the fully free GNU/Linux distribution movement affect the rest of the free software ecosystem? I am planning to keep the overall tone of the discussion newcomer-friendly while also providing some food for thought for the technically inclined.</blockquote>
+</p>
+<p>
+The wording has been deemed "clunky" by Karl Goetz, the lead developer of <a href="http://gnewsense.org">gNewSense</a>, but it's the best I managed to do in a busy week. If you are in Berlin next week and interested in discussing this new movement inside the free software world, you're welcome to join us.
+</p>

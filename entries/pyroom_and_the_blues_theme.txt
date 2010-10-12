@@ -1,0 +1,24 @@
+PyRoom and the Blues Theme
+#tags miro
+<p>
+<a href="http://pyroom.org/">PyRoom</a> is a fullscreen text editor that <em>stays out of your way</em>. It has no buttons or widgets. You can't even use different font types on it!
+</p>
+<p>
+And it is a breath of fresh air in today's world of bloated text editors and processors. It may not be a rival of GNU Emacs but it doesn't pursue to be one either. It constitutes a separate class of editors. I wouldn't use PyRoom for extensive coding or essay writing but it's quiet nifty for concentrating on writing and compiling short or discrete chunks of texts such as short stories, diaries, brain storms, to-do lists and such stuff. I also see no reason why a writer (or a coffee shop writer wanna-be) would not feel right at home to write a novel on PyRoom.
+</p>
+<p>
+Despite its minimalism, PyRoom has auto save and simple word count features. It also lets you work on multiple files simultaneously.
+</p>
+<p>
+<p style="text-align: center;">
+<a href="http://aligunduz.org/img/blog/wp-content/uploads/2008/12/pyroom.png"><img title="PyRoom" src="http://aligunduz.org/img/blog/wp-content/uploads/2008/12/pyroom-300x187.png" alt="PyRoom" width="300" height="187" /></a></p>
+</p>
+<p>
+However, I couldn't find a theme that fitted my taste as well as offering a color contrast that would minimize eye strain. So, I customized a new theme called <i>Blues</i>. You can find the theme file <a href="http://www.aligunduz.org/random/#PyRoomTheme">here</a>.
+</p>
+<p>
+Download <tt>blues.theme</tt> to the PyRoom's <tt>theme</tt> directory and start PyRoom with <tt>pyroom --style=blues</tt> to try out the theme or use the control panel after pressing Ctrl+P to set it as the default.
+</p>
+<p>
+Happy <b>Writing</b>!
+</p>

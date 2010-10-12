@@ -1,0 +1,44 @@
+My Favorite Web Comics
+#tags miro
+<p>
+<em>Ali: Hello all</em>
+</p>
+<p>
+<em>AA: Hello Ali</em>
+</p>
+<p>
+<em>Ali: I have an addiction. I'm addicted to webcomics</em>.
+</p>
+<p>
+I regularly read a number of webcomics along with countless others that I stumble upon in my nightly cravings for more comics. Here are my favorites:
+<h2><a href="http://xkcd.com/">xkcd</a></h2>
+<img title="xkcd_centrifugal_force" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/02/xkcd_centrifugal_force.png" alt="" width="400" height="170" />
+</p>
+<p>
+Okay, this is the most obvious one, since xkcd is arguably the most famous webcomic of the <em>geek</em> genre these days. Despite the corrosiveness of popularity, xkcd is continuing to be original and clever with minimal mediocrity.
+<h2><a href="http://www.phdcomics.com/comics.php">Piled Higher &amp; Deeper</a></h2>
+<img src="http://aligunduz.org/img/blog/wp-content/uploads/2009/03/phd072508s.gif" alt="" width="290" height="210" />
+</p>
+<p>
+I have been reading PHD comics since high school (yes, i see the irony) and it has always been a great companion for my moments of academic anxiety. However, the comics have transformed as the author, Jorge Cham, has finished grad school and became a professor. Nowadays, his comics mostly revolve around either more generalized topics of academia or the evolution of single characters. Still, it's a pleasure to read. If you are going to start reading, I highly recommend starting with the earlier strips.
+<h2><a href="http://www.explosm.net/comics/new/">Cyanide and Happiness</a></h2>
+<img title="CANDY!!" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/03/ch_mrsmayberry.jpg" alt="" width="157" height="177" />
+</p>
+<p>
+Delightfully disgusting, Cy&amp;H tickles the most repulsive and perverted regions of the human brain. Although it can become repetitive at times, it's a great entertainment.
+<h2><a href="http://truckbearingkibble.com/">Truck Bearing Kibble</a></h2>
+<img title="No, you didn't..." src="http://aligunduz.org/img/blog/wp-content/uploads/2009/03/tbk_09-28-07.jpg" alt="" width="292" height="224" />
+</p>
+<p>
+I have very recently found this gem of a comic. The drawings are absolutely amazing, and so is the sarcasm.
+<h2><a href="http://www.wulffmorgenthaler.com/">Wulffmorgenthaler</a></h2>
+<img title="halp!" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/03/wulff_705_help.gif" alt="" width="425" height="147" />
+</p>
+<p>
+Another comic strip I discovered recently, Wulffmorgenthaler's sense of humor generally comes from the hidden human misery of everybody. It's a time-proven technique that works great for its authors. It's a great daily read.
+<h2><a href="http://www.geekherocomic.com/">Geek Hero Comic</a></h2>
+<img title="n00b!" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/03/ghc_2009-01-30-boris1.png" alt="" width="360" height="219" />
+</p>
+<p>
+This last comic of the list is not known for neither its artistic craftsmanship nor its brilliantly original ideas, but it is a fine representation of the GNU-centric computer culture. Geek Hero Comic tells the story of a group of hackers and their <em>holy war</em> against management and Microsoft-centric <em>drones</em> in the company they work for.
+</p>

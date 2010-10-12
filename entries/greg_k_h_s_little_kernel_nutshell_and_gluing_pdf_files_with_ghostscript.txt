@@ -1,0 +1,32 @@
+Greg K-H's Little Kernel Nutshell and Gluing PDF Files with Ghostscript
+#tags miro
+<p>
+It has been a chaotic couple of weeks, but I'm finally settling in Berlin. Although I haven't found my final home yet, I finally have a reliable Internet access thanks to a little 3G USB modem. (Andreas Gohr's <a href="http://www.splitbrain.org/blog/2009-03/10-huawai_3g_umts_stick_on_arch_linux">blog post</a> helped greatly in straining out some details of wvdial configuration for the German T-Mobile.)
+</p>
+<p>
+I have been collecting a few tips and tricks about free command line utilities for some time and I plan to share them here in near future. For now, I'll start with a single tip.
+</p>
+<p>
+In my quest to grok the most popular kernel for GNU, I am making some distinct, albeit slow, headway into the inner workings of Linux. Before completely delving into the source code, I wanted to have a last overall look on kernel configuration, which may also end up providing some new insight relevant to the <a href="http://freedomshoppe.org/">Freedom Shoppe</a> builds.
+</p>
+<p>
+In my search, I found Greg Kroah-Hartman's <a href="http://www.kroah.com/lkn/">Linux Kernel In A Nutshell</a>.
+</p>
+<p style="text-align: center;">
+<img class="aligncenter size-medium wp-image-350" title="Linux Kernel In a Nutshell" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/09/linux_kernel_in_a_nutshell_small-200x300.jpg" alt="Linux Kernel In a Nutshell" width="200" height="300" />
+</p>
+<p>
+It is a concise reference guide and, even better, under a free license! And I don't mean a <a href="http://aligunduz.org/blog/high_quality_ogg_for__trusted_computing_.html">semi-free license</a>; it is genuine <a href="http://creativecommons.org/licenses/by-sa/2.5/">Attribution-Share Alike</a>. The only point that bothered me was that every chapter and even part headings were separately packaged. But it isn't really the <em>GNU way</em> to simply complain about works that you're allowed to hack on. :-) So, I did some <a href="https://ssl.scroogle.org/">scroogling</a> and found <a href="http://www.linux.com/archive/articles/36815">here</a> that the <a href="http://www.ghostscript.com/">Ghostscript</a> interpreter can be used to easily glue multiple PDF's together into one file right on the command line. Here's how to do it:
+</p>
+<p>
+After downloading and uncompressing the <a href="http://www.kernel.org/pub/linux/kernel/people/gregkh/lkn/lkn_pdf.tar.bz2">tarball</a> of all PDF files, I had all chapters of the book (except for the cover which may be under O'Reilly's strict copyright.) After figuring out the order of these files, I ran this command:
+</p>
+<p>
+<code>gs -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=LinuxKernelInANutshell.pdf title.pdf LKNSTOC.fm.pdf ch00.pdf part1.pdf ch01.pdf ch02.pdf ch03.pdf ch04.pdf ch05.pdf ch06.pdf part2.pdf ch07.pdf ch08.pdf part3.pdf ch09.pdf ch10.pdf ch11.pdf part4.pdf appa.pdf appb.pdf LKNSIX.fm.pdf colo.pdf</code>
+</p>
+<p>
+With this command, Ghostscript writes multiple files in given order into a single PDF. As you can check for yourself, files given after <tt>-sOutputFile=LinuxKernelInANutshell.pdf</tt> are original PDF files listed according to the book's order.
+</p>
+<p>
+I am hosting the resulting <a href="http://aligunduz.org/random/#LinuxKernelInANutshell">single PDF file</a>, so feel free treat yourself to a geeky afternoon read. ;-)
+</p>

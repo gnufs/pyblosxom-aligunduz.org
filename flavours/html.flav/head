@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>$(entry_title)$(blog_title) by $(blog_author) - $(blog_description)</title>
+  <link rel="icon" type="x-icon" href="http://aligunduz.org/favicon.ico" />
+  <link rel="alternate" type="application/rss+xml" href="http://aligunduz.org/blog/index.rss20" title="GLOG RSS 2 feed" />
+  <link rel="stylesheet" href="http://aligunduz.org/blog.css" type="text/css" />
+  <link  href="//fonts.googleapis.com/css?family=Cantarell:regular,italic,bold,bolditalic&subset=latin" rel="stylesheet" type="text/css" >
+</head>
+<body>
+<table>
+<tr>
+  <td class="bgleft">
+  <a href="http://aligunduz.org/blog"><img src="../img/blog/glog.png" alt="GLOG - Free People, Free Software" /></a>
+  </td>
+  <td class="smright">
+  <a href="http://aligunduz.org/blog/index.rss20"><img src="../img/blog/feed2.png" alt="RSS Feed" /></a>
+  </td>
+</tr>
+</table>
+
+<p>$(pi_da) $(pi_mo) $(pi_yr)</p>
+

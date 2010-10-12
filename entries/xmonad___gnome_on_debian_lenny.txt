@@ -1,0 +1,14 @@
+Xmonad + GNOME on Debian Lenny
+#tags miro
+<p>
+I've been interested in using a <a href="http://en.wikipedia.org/wiki/Tiling_window_manager">tiling window manager</a> for some time. Although I have had <a href="http://dwm.suckless.org/">dwm</a>, <a href="http://awesome.naquadah.org/">awesome</a> and <a href="http://www.xmonad.org/">xmonad</a> installed on my laptop, I've never spent more than a couple of hours on them.
+</p>
+<p>
+So, about two days ago I decided to take ultimate step and replace Metacity with Xmonad on GNOME, which is my primary desktop environment.
+</p>
+<p style="text-align:center">
+<a href="http://aligunduz.org/img/blog/Xmonad1.png"><img title="GNOME and Xmonad on Debian Lenny" src="http://aligunduz.org/img/blog/wp-content/uploads/2009/03/xmonad1-300x187.png" alt="" width="300" height="187" /></a>
+</p>
+<p>
+As I am discovering this new WM, I will be documenting useful notes on a <a href="http://aligunduz.org/wiki/Xmonad">wiki page</a>.
+</p>

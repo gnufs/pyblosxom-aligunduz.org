@@ -1,0 +1,28 @@
+High Quality OGG for "Trusted Computing"
+#tags miro
+<p>
+I discovered the animated short film, <strong><a href="http://www.lafkon.net/tc/">Trusted Computing</a></strong>, today. Great movie! It is licensed under a Creative Commons (<a href="http://creativecommons.org/licenses/sampling+/1.0/">Sampling Plus 1.0</a>) license that I wouldn't categorize as free but certainly more permissive than the standard copyrights. However, I was irritated by the lack of a truly high quality OGG video, whereas proprietary formats such as the Quicktime <em>.mov</em> had such quality copies.
+<p style="text-align: center;">
+<img title="Trusted Computing" src="http://aligunduz.org/img/blog/wp-content/uploads/2008/12/trustedcomputing.png" alt="" width="290" height="218" /></p>
+</p>
+<p>
+Fortunately, I had the handy <tt><a href="http://v2v.cc/~j/ffmpeg2theora/">ffmpeg2theora</a></tt> tool at hand. It is a command line tool where entering a simple command encodes an OGG copy of the specified video file with default settings:
+</p>
+<p>
+<tt>ffmpeg2theora video.mov</tt>
+</p>
+<p>
+However, I wanted to have the highest quality possible. So, I entered the command with a <tt>-v</tt> argument
+</p>
+<p>
+<code>ffmpeg2theora -v 10 video.</code>mov
+</p>
+<p>
+where the number after <tt>-v</tt> defines the output quality in a scale from 0 to 10. (The default value is 5.) You can find more about the encoding options by entering "<tt>man ffmpeg2theora</tt>" or "<tt>ffmpeg2theora --help</tt>".
+</p>
+<p>
+This produced a 66.3MB high quality video with Theora and Vorbis encodings. You can find the video file <a href="http://www.aligunduz.org/random/#TrustedComputing">here</a>.
+</p>
+<p>
+Also, if you are interested in the "Treacherous Computing" technology, you can read <a href="http://www.gnu.org/philosophy/can-you-trust.html">Can You Trust Your Computer?</a> by Richard Stallman.
+</p>
