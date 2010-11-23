@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # -u turns off character translation to allow transmission
 # of gzip compressed content on Windows and OS/2
