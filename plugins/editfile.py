@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # vim: shiftwidth=4 tabstop=4 expandtab
 """
 This utility can be used to update a file entry while keeping the
