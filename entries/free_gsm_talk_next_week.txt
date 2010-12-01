@@ -1,7 +1,7 @@
 Free Software GSM Presentation Next Week
 
 <p>
-I will do a talk about Free Software GSM implementations at the <a href="http://fsfe.org/">Free Software Foundation Europe</a>'s Berlin meeting on Thursday, December 9th, next week. The talk will start at 19:30 in the <a href="http://www.newthinking-store.de/">Newthinking Store</a>.
+I will do a talk about Free Software GSM implementations at the <a href="http://fsfe.org/">Free Software Foundation Europe</a>'s Berlin meeting on Thursday, December 9th, next week. It will start at 19:30 in the <a href="http://www.newthinking-store.de/">Newthinking Store</a>.
 </p>
 <p style="text-align: center;"><img src="/img/blog/grey_eminence.jpg" title="François Leclerc du Tremblay by Jean-Léon Gérôme" /></p>
 
