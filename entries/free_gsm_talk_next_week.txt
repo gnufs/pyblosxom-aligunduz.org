@@ -1,0 +1,24 @@
+Free Software GSM Presentation Next Week
+
+<p>
+I will do a talk about Free Software GSM implementations at the <a href="http://fsfe.org/">Free Software Foundation Europe</a>'s Berlin meeting on Thursday, December 9th, next week. The talk will start at 19:30 in the <a href="http://www.newthinking-store.de/">Newthinking Store</a>.
+</p>
+<p style="text-align: center;"><img src="/img/blog/grey_eminence.jpg" title="François Leclerc du Tremblay by Jean-Léon Gérôme" /></p>
+
+<p>
+Here's the abstract of the presentation:
+</p>
+
+<p>
+<blockquote>
+GSM is the most ubiquitous mobile telephony platform in the world, and chances are you are carrying a GSM-capable device with you everywhere you go. Yet, practical implementations of GSM are shrouded in mystery. Their inner-workings are known only to a small cabal of companies away from public and commercial scrutiny. However, there's hope on the horizon. In this talk, we'll have an overall look at the state of Free Software GSM implementations and discuss what they could mean for the hacker and the common man in practice.
+</blockquote>
+</p>
+
+<p>
+The talk will be aimed at those without any prior knowledge of GSM protocols, and I will not refrain from using crude oversimplifications to make my points.
+</p>
+
+<p>
+You have gotten used to the idea of Android and Meego? Let's see what you'll think about the possibility of Free Software handling what your cell phone is primarily made for.
+</p>
