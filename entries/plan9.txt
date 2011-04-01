@@ -1,0 +1,31 @@
+Plan 9 or: How I Learned to Stop Worrying and Love UNIX
+
+<p>
+I've been interested in <a href="http://plan9.bell-labs.com/plan9/">Plan 9</a> for some time now, though never tinkered with it in a significant depth. It may not be the most practical OS for daily activities, but it always sounded like a system worth studying for all the groundbreaking concepts it introduces and eventually gets adapted by other system. But I haven't really expected it to be so much simple in source form. After all, it's a research system; it should be full of incomprehensible coding trickeries, right?
+</p>
+
+<p>
+Okay, that was obviously a trick question. But here is what's made me <i>really</i> interested in Plan 9: Having a first glance in the source code of the <tt>cat</tt> utility and comparing it with what I'm running on my computer.
+</p>
+
+<p>
+ <tt>apt-get source 9base coreutils && emacs 9base*/cat/cat.c coreutils*/src/cat.c</tt>
+</p>
+
+<br>
+<p style="text-align: center;">
+<img src="/img/blog/plan9vsgnu.png" alt="cat.c in Plan 9 vs. in GNU"/>
+</p>
+<br>
+
+<p>
+Elegance and simplicity <i>do</i> go hand in hand.
+</p>
+
+<p>
+Now, I have a new reason to learn the ways of Plan 9.
+</p>
+
+<p>
+<small><pre>This is a duplicate of my post on <a href="http://freetard.net/2011/04/plan9.html">freetard.net</a>.</pre></small>
+</p>
